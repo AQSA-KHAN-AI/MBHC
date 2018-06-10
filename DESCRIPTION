@@ -1,0 +1,13 @@
+Package: MBHC
+Type: Package
+Title: Model-Based Hierarchical Clustering 
+Version: 0.1.0
+Author: Navid Ahmadinejad
+Maintainer: Navid Ahmadinejad <navidfr@asu.edu>
+Description: This package performs hierarchical clustering, based on fitting a 
+    beta distribution. 
+License: GPL-2
+LazyData: true
+Imports: 
+  dplyr
+RoxygenNote: 6.0.1
